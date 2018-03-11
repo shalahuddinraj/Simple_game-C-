@@ -1,0 +1,8 @@
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\game.Form1.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\bin\Debug\game.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\bin\Debug\game.pdb
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\game.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\game\obj\Debug\game.pdb
